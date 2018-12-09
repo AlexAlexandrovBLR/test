@@ -1,0 +1,14 @@
+D:\Учеба\Диплом\CatalogParts\CatalogParts.Data\bin\Debug\CatalogParts.Data.dll.config
+D:\Учеба\Диплом\CatalogParts\CatalogParts.Data\bin\Debug\CatalogParts.Data.dll
+D:\Учеба\Диплом\CatalogParts\CatalogParts.Data\bin\Debug\CatalogParts.Data.pdb
+D:\Учеба\Диплом\CatalogParts\CatalogParts.Data\bin\Debug\CommonLibrary.dll
+D:\Учеба\Диплом\CatalogParts\CatalogParts.Data\bin\Debug\EntityFramework.dll
+D:\Учеба\Диплом\CatalogParts\CatalogParts.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учеба\Диплом\CatalogParts\CatalogParts.Data\bin\Debug\CommonLibrary.pdb
+D:\Учеба\Диплом\CatalogParts\CatalogParts.Data\bin\Debug\EntityFramework.xml
+D:\Учеба\Диплом\CatalogParts\CatalogParts.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учеба\Диплом\CatalogParts\CatalogParts.Data\obj\Debug\CatalogParts.Data.csprojAssemblyReference.cache
+D:\Учеба\Диплом\CatalogParts\CatalogParts.Data\obj\Debug\CatalogParts.Data.csproj.CoreCompileInputs.cache
+D:\Учеба\Диплом\CatalogParts\CatalogParts.Data\obj\Debug\CatalogParts.Data.csproj.CopyComplete
+D:\Учеба\Диплом\CatalogParts\CatalogParts.Data\obj\Debug\CatalogParts.Data.dll
+D:\Учеба\Диплом\CatalogParts\CatalogParts.Data\obj\Debug\CatalogParts.Data.pdb

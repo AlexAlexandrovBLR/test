@@ -1,0 +1,12 @@
+D:\Учеба\СВПП\Kursach\CommonLibrary\bin\Debug\CommonLibrary.dll
+D:\Учеба\СВПП\Kursach\CommonLibrary\bin\Debug\CommonLibrary.pdb
+D:\Учеба\СВПП\Kursach\CommonLibrary\obj\Debug\CommonLibrary.csproj.CoreCompileInputs.cache
+D:\Учеба\СВПП\Kursach\CommonLibrary\obj\Debug\CommonLibrary.dll
+D:\Учеба\СВПП\Kursach\CommonLibrary\obj\Debug\CommonLibrary.pdb
+D:\Учеба\СВПП\Kursach\CommonLibrary\obj\Debug\CommonLibrary.csprojAssemblyReference.cache
+D:\Учеба\Диплом\CatalogParts\CommonLibrary\bin\Debug\CommonLibrary.dll
+D:\Учеба\Диплом\CatalogParts\CommonLibrary\bin\Debug\CommonLibrary.pdb
+D:\Учеба\Диплом\CatalogParts\CommonLibrary\obj\Debug\CommonLibrary.csprojAssemblyReference.cache
+D:\Учеба\Диплом\CatalogParts\CommonLibrary\obj\Debug\CommonLibrary.csproj.CoreCompileInputs.cache
+D:\Учеба\Диплом\CatalogParts\CommonLibrary\obj\Debug\CommonLibrary.dll
+D:\Учеба\Диплом\CatalogParts\CommonLibrary\obj\Debug\CommonLibrary.pdb
